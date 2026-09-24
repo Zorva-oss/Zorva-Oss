@@ -1,0 +1,6 @@
+{
+  "name": "Zorva - Next-Gen Video & AI Social Platform",
+  "description": "Watch, connect, create, and grow with Zorva. Modern short-video sharing platform featuring AI Copilot assistance, creator commerce, real-time messaging, and high-velocity discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
